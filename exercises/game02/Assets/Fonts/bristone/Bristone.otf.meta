@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8f39daed20c561e4d993b93d2ec2091e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bristone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1b58fc8cb2cd6b4da0f7a8de20b5c5f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
