@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/titlescreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/howtoplay.unity
+    guid: f28424a4a9f49af4eb0e522f8acec5d6
+  - enabled: 1
+    path: Assets/Scenes/chooseplayer.unity
+    guid: 7f83aa71285a6d8428af46a42402f64b
+  - enabled: 1
+    path: Assets/Scenes/Bash.unity
+    guid: 9bf4d1da756303c49acbecf8c250ffc5
+  - enabled: 1
+    path: Assets/Scenes/Minnie.unity
+    guid: 1da1e19d29da4244ebda8c54dc1d11a6
+  - enabled: 1
+    path: Assets/Scenes/Nico.unity
+    guid: 3628f9bbcf1a4c84d8e41908ac26115b
+  - enabled: 1
+    path: Assets/Scenes/house.unity
+    guid: 658a951221ab6e14a8aa03b99ea811e6
+  - enabled: 1
+    path: Assets/Scenes/house2.unity
+    guid: 22ac86785d3892e43bfa7472bc391dd3
+  - enabled: 1
+    path: Assets/Scenes/house3.unity
+    guid: 7eb03ed072b927e4fab42a982e95104e
+  - enabled: 1
+    path: Assets/Scenes/player1.unity
+    guid: bab49bdc1a6d12448afcebb502c67472
+  - enabled: 1
+    path: Assets/Scenes/player2.unity
+    guid: fde3c30b1f68f204f80ffa0cc361405f
+  - enabled: 1
+    path: Assets/Scenes/player3.unity
+    guid: 683d8d439b9189741a5a62c45a7703b3
+  - enabled: 1
+    path: Assets/Scenes/letter1.unity
+    guid: 63f1ed84888339645964fc73bd3c4bef
+  - enabled: 1
+    path: Assets/Scenes/letter2.unity
+    guid: fd20ecc17a6cba144886b16a45771e2c
+  - enabled: 1
+    path: Assets/Scenes/letter3.unity
+    guid: e563c6f220641e4498f0094f5f8a5307
+  - enabled: 1
+    path: Assets/Scenes/letter1(2).unity
+    guid: a9895c3a645e4934883cc88da36fcef1
+  - enabled: 1
+    path: Assets/Scenes/letter2(2).unity
+    guid: 33f47793c58f8a64b92ca308ddd7f9c3
+  - enabled: 1
+    path: Assets/Scenes/letter3(2).unity
+    guid: 2d2058dbdd15ee74896f7f888c38247e
+  - enabled: 1
+    path: Assets/Scenes/letter1(3).unity
+    guid: 9c0fb03940b99794ab1d13cc54f1e56d
+  - enabled: 1
+    path: Assets/Scenes/letter2(3).unity
+    guid: a255494c4841ee84ebdf24e9b33f505c
+  - enabled: 1
+    path: Assets/Scenes/letter3(3).unity
+    guid: 2cb99841d7493414c9147b17771c1304
+  - enabled: 1
+    path: Assets/Scenes/deathnote.unity
+    guid: e774223382aaa2d4eb65c9684de7c291
+  - enabled: 1
+    path: Assets/Scenes/deathnote2.unity
+    guid: fd9c1ca6c0f54324d8fe7daf232608d7
+  - enabled: 1
+    path: Assets/Scenes/deathnote3.unity
+    guid: 2ecf3c9c8fb3a5d41a54906eb530533b
+  - enabled: 1
+    path: Assets/Scenes/death.unity
+    guid: b6249f4e75ee14349b15138837a87c77
+  - enabled: 1
+    path: Assets/Scenes/death2.unity
+    guid: eea290ea96666f148b96de70277143c8
+  - enabled: 1
+    path: Assets/Scenes/death3.unity
+    guid: 8535196492e7eb542a91a329e568fdd3
+  - enabled: 1
+    path: Assets/Scenes/woods.unity
+    guid: d7a973419e7b6164ca883f82f97c4e49
+  - enabled: 1
+    path: Assets/Scenes/woods2.unity
+    guid: cbfe97e18ff177e459cd678f38bbc71c
+  - enabled: 1
+    path: Assets/Scenes/woods3.unity
+    guid: 1ec5f0598d94fba478d59e58ca1f9eae
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: ee2282c592649e94b8dd7476d7b635ff
+  - enabled: 1
+    path: Assets/Scenes/end2.unity
+    guid: 18ce4e08c848935489d03f685302bc04
+  - enabled: 1
+    path: Assets/Scenes/end3.unity
+    guid: 335ded57feb093a4d8313bf41b925787
+  m_configObjects: {}

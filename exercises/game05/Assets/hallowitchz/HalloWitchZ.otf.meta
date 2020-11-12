@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2c3f0a6cf402cca4389b303e1bbb7570
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HalloWitchZ
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 88129bc306dc0e3478b4f22e258fb5a5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

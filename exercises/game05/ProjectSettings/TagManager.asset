@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  - Selectable
+  - BadSelectable
+  - Selectable2
+  - Selectable3
+  - Selectable1(2)
+  - Selectable2(2)
+  - Selectable3(2)
+  - Selectable1(3)
+  - Selectable2(3)
+  - Selectable3(3)
+  - Key2
+  - Key3
+  - EndKey
+  - EndKey2
+  - EndKey3
+  - BadSelectable2
+  - BadSelectable3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
