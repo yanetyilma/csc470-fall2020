@@ -7,32 +7,32 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/titlescreen.unity
-    guid: 8fb31b357b1be1246a76cb5b52923ad3
+    guid: c8a35d976ba1b1244a2db4eed652be99
   - enabled: 1
     path: Assets/Scenes/instructions.unity
-    guid: 27a8b4ef3b6d38f488e85f2bced6708d
+    guid: fe10648579159b14285d127ad3885a60
   - enabled: 1
     path: Assets/Scenes/soundtrack.unity
-    guid: 412f19f674873b94dbb87ac7e13e29bd
+    guid: 1d6b238998a12ad438107f696e8273b3
   - enabled: 1
     path: Assets/Scenes/chooseplayer.unity
-    guid: db022c8bd1e1f434291ffe92ee25c20c
+    guid: e772637a61fc526409ae71a3a80c6d71
   - enabled: 1
     path: Assets/Scenes/openingscene.unity
-    guid: 147485f9c0787ad47a209f395ca0fe5f
+    guid: 4e5d1f0cba4a32946b51f2ae3983fa93
   - enabled: 1
     path: Assets/Scenes/openingscene2.unity
-    guid: ebb756e74c78fd94da32acff3ec2a582
+    guid: c754012a11ec5a8429f167efe4e724f9
   - enabled: 1
     path: Assets/Scenes/openingscene1.unity
-    guid: 42aa5c952b8a29a4caa0c0aa63d20d93
+    guid: 81018a4ae5bd7d347b141c0503302ebc
   - enabled: 1
     path: Assets/Scenes/openingscenelast.unity
-    guid: a50c134191958fe41b0dc67146aa805c
+    guid: 1a59f9904bee82245a2dbc26743d13e3
   - enabled: 1
     path: Assets/Scenes/openingscene3.unity
-    guid: 77e617e747a75424686baa5ca64fb84e
+    guid: f5d14cfcdd100d144bbee30c3e2a8abe
   - enabled: 1
     path: Assets/Scenes/playsceneMiko.unity
-    guid: 46f6eeaf8232ff14b8ed8f4cae92ac8f
+    guid: 60315575e54853e47aeb7a261db38ec9
   m_configObjects: {}
