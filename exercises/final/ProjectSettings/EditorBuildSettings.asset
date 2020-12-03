@@ -18,21 +18,33 @@ EditorBuildSettings:
     path: Assets/Scenes/chooseplayer.unity
     guid: e772637a61fc526409ae71a3a80c6d71
   - enabled: 1
-    path: Assets/Scenes/openingscene.unity
+    path: Assets/Scenes/openingsceneMIKO.unity
     guid: 4e5d1f0cba4a32946b51f2ae3983fa93
   - enabled: 1
-    path: Assets/Scenes/openingscene2.unity
-    guid: c754012a11ec5a8429f167efe4e724f9
-  - enabled: 1
-    path: Assets/Scenes/openingscene1.unity
+    path: Assets/Scenes/openingscene2MIKO.unity
     guid: 81018a4ae5bd7d347b141c0503302ebc
   - enabled: 1
-    path: Assets/Scenes/openingscenelast.unity
+    path: Assets/Scenes/openingscene3MIKO.unity
     guid: 1a59f9904bee82245a2dbc26743d13e3
   - enabled: 1
-    path: Assets/Scenes/openingscene3.unity
-    guid: f5d14cfcdd100d144bbee30c3e2a8abe
+    path: Assets/Scenes/openingsceneSUKI.unity
+    guid: 6e8b36ed1f76c2440825635948498ebd
+  - enabled: 1
+    path: Assets/Scenes/openingscene2SUKI.unity
+    guid: 935a81b91e8b2904db051ee36431754f
+  - enabled: 1
+    path: Assets/Scenes/openingscene3SUKI.unity
+    guid: 532093c42e5c13847a5e1508cac36b3b
   - enabled: 1
     path: Assets/Scenes/playsceneMiko.unity
     guid: 60315575e54853e47aeb7a261db38ec9
+  - enabled: 1
+    path: Assets/Scenes/playsceneSuki.unity
+    guid: 54510b1898bb5d749a875661471eae3e
+  - enabled: 1
+    path: Assets/Scenes/MIKOLOSES.unity
+    guid: 863c87bba574eee41b418c63644e8f23
+  - enabled: 1
+    path: Assets/Scenes/SUKILOSES.unity
+    guid: 4f85bf4ba15238540bd777b5526d607a
   m_configObjects: {}
