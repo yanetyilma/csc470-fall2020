@@ -596,7 +596,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 5496cc55dc4a3d844a3bb870b0dc26c6, type: 3}
-    m_FontSize: 29
+    m_FontSize: 26
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -607,7 +607,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You must satisfy Kiko's needs and achieve the most points than your sister.
+  m_Text: You must satisfy Kiko's needs by clicking on objects that match up with
+    each specific need.
 --- !u!222 &477080689
 CanvasRenderer:
   m_ObjectHideFlags: 0

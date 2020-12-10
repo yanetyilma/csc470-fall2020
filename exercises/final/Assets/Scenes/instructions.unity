@@ -721,13 +721,15 @@ MonoBehaviour:
 
     -choose a player
 
-    -tend to the child''s needs
-    faster than your sister
+    -press corresponding objects
+    to satisfy kiko''s needs.
 
-    -increase your points by doing tasks
+    -make sure that every need is full before the
+    timer runs out.
 
-    -whoever
-    has the most points wins!'
+    -take home the crown!
+
+'
 --- !u!222 &494832747
 CanvasRenderer:
   m_ObjectHideFlags: 0

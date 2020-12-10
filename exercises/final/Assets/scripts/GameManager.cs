@@ -93,4 +93,52 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("playsceneSuki");
     }
+    public void PressContinueMIKOLOSES()
+    {
+        SceneManager.LoadScene("scoreMIKOLOSES2");
+    }
+    public void PressContinueSUKILOSES()
+    {
+        SceneManager.LoadScene("scoreSUKILOSES2");
+    }
+    public void PressTheEndMIKOLOSES()
+    {
+        SceneManager.LoadScene("MIKOLOSES2");
+    }
+    public void PressTheEndSUKILOSES()
+    {
+        SceneManager.LoadScene("SUKILOSES2");
+    }
+    public void PressContinueMIKOWINS()
+    {
+        SceneManager.LoadScene("scoreMIKOWINS2");
+    }
+    public void PressContinueSUKIWINS()
+    {
+        SceneManager.LoadScene("scoreSUKIWINS2");
+    }
+    public void PressTheEndMIKOWINS()
+    {
+        SceneManager.LoadScene("MIKOWINS");
+    }
+    public void PressTheEndSUKIWINS()
+    {
+        SceneManager.LoadScene("SUKIWINS");
+    }
+    public void PressHelp()
+    {
+        SceneManager.LoadScene("Help");
+    }
+    public void PressHelp2()
+    {
+        SceneManager.LoadScene("Help2");
+    }
+    public void PressBackfromHelp()
+    {
+        SceneManager.LoadScene("playsceneMiko");
+    }
+    public void PressBackfromHelp2()
+    {
+        SceneManager.LoadScene("playsceneSuki");
+    }
 }

@@ -27,6 +27,5 @@ public class BgMusic : MonoBehaviour
             instance = this;
         }
         DontDestroyOnLoad(this.gameObject);
-        BgMusic.Instance.gameObject.GetComponent<AudioSource>().UnPause();
     }
 }
